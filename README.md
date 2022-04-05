@@ -1,6 +1,6 @@
-# NextJS Firebase
+# Test Firebase Auth
 
-NextJS + Firebase:
+Firebase V9:
 
 Modules
 
@@ -13,6 +13,7 @@ Modules
   - Forgot Password
   
 
+> Reminder: `.env.local` file needs to be added at the root
 
 
 ## Getting Started

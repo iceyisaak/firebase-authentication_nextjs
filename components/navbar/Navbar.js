@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className={styles.Navbar}>
       <Link href='/' passHref>
         <h1>
-          NextJS Firebase
+          Test Firebase Auth
         </h1>
       </Link>
     </nav>
